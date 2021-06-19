@@ -12,8 +12,7 @@
 <h1 align="center">Welcome to Mithun Software Solutions.</h1>
 <h1 align="center"> finallu completed jenkins </h1>
 <hr>
-<br>
-	<h1><h3> Server Side IP Address </h3><br>
+<br><h1><h3> Server Side IP Address </h3><br>
 
 <% 
 String ip = "";
