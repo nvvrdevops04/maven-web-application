@@ -101,7 +101,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <urlhttp://34.219.194.27:8081/repository/flipkat-release/</url>
+	      <url>http://34.219.194.27:8081/repository/flipkat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
