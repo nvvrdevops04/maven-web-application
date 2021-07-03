@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://184.72.209.10:8081/repository/jenkinspro-release/</url>
+	      <url>http://34.207.219.230:8081/repository/amazon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://184.72.209.10:8081/repository/jenkinspro-snapshot/</url>
+	      <url>http://34.207.219.230:8081/repository/amazom-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
