@@ -1,0 +1,7 @@
+node
+{
+stage ('github')
+{
+git credentialsId: '2b7461bd-ce60-4176-a884-9fd6cc73e655', url: 'https://github.com/nvvrdevops04/maven-web-application.git'
+}
+}
